@@ -44,6 +44,7 @@ Additional Information:
 - ISO-639-3 code: cym
 - https://en.wikipedia.org/wiki/ISO_639:cym
 - Internet TLD: .cymru
+- This document needs reviewing by a native speaker.
 - 
 
 Scripts:
