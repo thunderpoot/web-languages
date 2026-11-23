@@ -4,6 +4,8 @@ Additional names:
 - 
 
 News:
+- https://euobserver.com/
+- https://tvpworld.com/
 - 
 - 
 
@@ -20,6 +22,8 @@ Political Parties:
 - 
 
 Other:
+- https://www.atlanticcouncil.org/
+- https://www.sipri.org/
 - 
 - 
 
